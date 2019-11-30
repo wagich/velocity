@@ -162,7 +162,7 @@
       var _iteratorError = undefined;
 
       try {
-          for (var _iterator = arguments[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+          for (var _iterator = args[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
               var arg = _step.value;
 
               if (arg !== undefined && arg === arg) {
